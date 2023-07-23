@@ -111,7 +111,7 @@
 }
 
 .img-area-1 {
-    background-image: url(https://bharatpe.com/desktop-path/img-webview/masthead@2x.png);
+    background-image: url(hero-page-img.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 570px;
@@ -159,7 +159,7 @@
 /* Second part of hero portion of the web site */
 
 .main-bg {
-    background-image: url(https://bharatpe.com/desktop-path/img-webview/payment-made-doted-line.png);
+    background-image: url();
     background-size:auto;
     background-repeat: no-repeat;
     background-position-x: 300px;
@@ -300,7 +300,7 @@
 }
 
 .hero-sec4img {
-    background-image: url(https://bharatpe.com/desktop-path/img-webview/group-38@2x.png);
+    /* background-image: url(); */
     height: 100%;
     width: 50%;
     background-size: contain;
@@ -336,7 +336,7 @@
 }
 
 .master5-2-2 {
-    background-image: url(https://bharatpe.com/desktop-path/img-webview/group-22@2x.png);
+    background-image: url(https://th.bing.com/th/id/R.ad72b7fecbe0de6526bdde511965ff04?rik=%2bZcPTM8g%2bKiTmQ&riu=http%3a%2f%2fentechdesigns.com%2fnew_site%2fwp-content%2fthemes%2fen-tech%2fimages%2fnot_available_icon.jpg&ehk=UI0frGbrfodEmx3CUtAoVkW7kPtvieYdu3SuVf0niHk%3d&risl=&pid=ImgRaw&r=0);
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
